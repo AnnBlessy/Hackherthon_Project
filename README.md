@@ -1,5 +1,8 @@
 # Hackherthon_Project
-## Description: The analysis involves examining historical weather data, atmospheric conditions, and CO2 Emissions to understand the past trends. Predictions are then made using advanced models to forecast future climate scenarios.
+
+## Description:
+
+The analysis involves examining historical weather data, atmospheric conditions, and CO2 Emissions to understand the past trends. Predictions are then made using advanced models to forecast future climate scenarios.
 
 
 ## Describing the data
